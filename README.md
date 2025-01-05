@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Jérémy Mescatullo</h1>
 
-<h3 align="center">Developper Fullstack ReactJS/TS/Ops/MongoDB 👾</h3>
+<h3 align="center">Developper Fullstack 👾</h3>
 
 
 - 👀 I’m working for ADSoftware, which is the development section for AWA and Elogbook
