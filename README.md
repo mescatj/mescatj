@@ -3,9 +3,9 @@
 <h3 align="center">Developper Fullstack ReactJS/TS/Ops/MongoDB 👾</h3>
 
 
-- 👀 I’m working for Grid Bear, which is the development section of [Sadigh Group](https://sadighgroup.com/)
+- 👀 I’m working for ADSoftware, which is the development section for AWA and Elogbook
 
-- 🌱 I’m currently trying to improve my skills in Typescript and Javascript (in general), and Python during my free time
+- 🌱 I’m currently working with Typescript and introduce Rust to our stack.
 
 - 📫 How to reach me **jeremy.mescatullo@epitech.eu** or **jeremymescatullo@msn.com**
 
